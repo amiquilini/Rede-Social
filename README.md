@@ -1,7 +1,7 @@
 # Rede-Social
 ## UFF/CEDERJ - Projeto da disciplina Programação Orientada a Objetos (Java)
 
-Objetivo: Implementação de uma rede social minimalista que permite a criação de postagens e de curtidas e estas postagens.
+Objetivo: Implementação de uma rede social minimalista que permite a criação de postagens e de curtidas a estas postagens.
 
 A classe principal foi fornecida no enunciado para a implementação das classes e métodos necessários.
 
